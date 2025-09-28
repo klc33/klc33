@@ -1,5 +1,5 @@
-<a href="https://unsplash.com/photos/example">
-  <img src="https://images.unsplash.com/photo-xyz" alt="Description">
+<a href="#">
+  <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" alt="Aspirations">
 </a>
 <h1 align="center">Hi 👋, I'm Amer Aljoundy</h1>
 <h3 align="center">An aspiring to be junior developer</h3>
