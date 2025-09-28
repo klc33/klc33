@@ -1,4 +1,4 @@
-<a href="#">
+<a width="100%" href="#">
   <img  width="600px" height="400px"  src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" alt="Aspirations">
 </a>
 <h1 align="center">Hi 👋, I'm Amer Aljoundy</h1>
