@@ -1,3 +1,4 @@
+<img src="https://picsum.photos/530/300" alt="Image description" loading="lazy" style="display: block; margin-left: auto; margin-right: auto;">
 <h1 align="center">Hi 👋, I'm Amer Aljoundy</h1>
 <h3 align="center">An aspiring to be junior developer</h3>
 
